@@ -13,7 +13,7 @@
 
   Petly is a fully responsive petshop ecommerce website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/Petly/"><strong>➥ Live Demo</strong></a>
+  <a href="https://petly-gamma.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
